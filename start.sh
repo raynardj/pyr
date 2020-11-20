@@ -1,0 +1,1 @@
+docker run -p 8765:8888 -v ~/:/home/jovyan/home -it --rm pyr:latest jupyter notebook
