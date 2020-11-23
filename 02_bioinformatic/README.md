@@ -4,6 +4,14 @@
 
 [Source code](https://github.com/raynardj/pyr/tree/main/02_bioinformatic) of this image
 
+## Packages installed on this layer
+```R
+library(DESeq2)
+library(limma)
+library(GSVA)
+library(pheatmap)
+```
+
 ## This environment allows you :
 * Use python3.8 kernel in jupyter
 * Use R(4.0.3) kernel in jupyter
